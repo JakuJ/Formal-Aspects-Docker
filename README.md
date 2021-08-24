@@ -10,3 +10,5 @@ formal-aspects-docker-runner
 5. When you're done, exit and stop container with `docker-compose down`
 
 Optionaly you can use VSCode for coding and running commands
+
+Credit for the docker files: https://github.com/danielgaldev/

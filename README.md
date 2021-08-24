@@ -1,4 +1,4 @@
-formal-aspects-assignment-2
+formal-aspects-docker-runner
 
 ## Getting started
 
@@ -9,4 +9,4 @@ formal-aspects-assignment-2
 4. You can use `rsltc` and `sml` commands
 5. When you're done, exit and stop container with `docker-compose down`
 
-Optionaly you can use VSCode for coding and running commands in the container
+Optionaly you can use VSCode for coding and running commands

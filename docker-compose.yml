@@ -1,8 +1,7 @@
-version: '3'
-
 services:
-  rsl:
+  raise-tools:
     build: .
+    container_name: raise-tools
     command: tail -F /dev/null
     volumes:
       - .:/usr/src
